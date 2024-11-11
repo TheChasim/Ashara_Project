@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "8be629746f900647",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d617007dec42148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3821e1dcb23a20f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidan/The Wold's After/JeuPerso/planette/Sakyu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3051b3ccbf867373",
+    "type": "split",
+    "children": [
+      {
+        "id": "20a29bc7445c7cc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5eb9e0f81e24fdb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3b47490390a056c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9d8bdd2edea8f42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f13435f4519dd353",
+    "type": "split",
+    "children": [
+      {
+        "id": "881c71c0b36329b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ad4dcd100d451a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidan/The Wold's After/JeuPerso/planette/Sakyu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4ecb3ffe0d79345",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidan/The Wold's After/JeuPerso/planette/Sakyu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dff548777cef8dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f1282f578389ca29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidan/The Wold's After/JeuPerso/planette/Sakyu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3821e1dcb23a20f2",
+  "lastOpenFiles": [
+    "obsidan/JeuPerso/Race/Empire.md",
+    "obsidan/JeuPerso/Race/Automate.md",
+    "obsidan/JeuPerso/Race/Astraha.md",
+    "obsidan/JeuPerso/Race/Ashara.md",
+    "obsidan/The Wold's After/JeuPerso/planette/Sakyu.md",
+    "obsidan/The Wold's After/JeuPerso/Histoire/Time Line.md",
+    "obsidan/The Wold's After/JeuPerso/Histoire/la crise des navigateur.md",
+    "obsidan/Empire/logo/DALL·E 2024-02-20 21.18.23 - 9 different logos inspired by traditional Japanese emblems (kamon), featuring a central circle symbolizing the universe, surrounded by four diagonal b.webp",
+    "obsidan/Empire/logo/DALL·E 2024-02-20 21.14.00 - 9 different logos inspired by traditional Japanese emblems (kamon), featuring a central circle symbolizing the universe, surrounded by four diagonal b.webp",
+    "obsidan/Empire/Empress/DALL·E 2024-02-20 19.08.23 - A character reference sheet for a Space Opera Empress, showcasing a regal and composed figure with dignified bearing. She possesses soft, humanized fa.webp",
+    "obsidan/Empire/Empress/DALL·E 2024-02-20 18.43.56 - In a space opera universe, an empress famous for her beauty, elegance, and the unique blend of humanity and advanced cybernetics. This scene captures .webp",
+    "obsidan/Empire/Empress/DALL·E 2024-02-20 18.43.48 - In a space opera universe, a front view of an empress with advanced cybernetic enhancements, now wearing a more feminine and naturally flowing geisha-.webp",
+    "obsidan/Empire/Empress/DALL·E 2024-02-20 18.43.47 - In a space opera universe, a front view of an empress with subtle cybernetic enhancements, presenting a more humanized appearance. Her attire is a fem.webp",
+    "obsidan/Empire/Empress/DALL·E 2024-02-20 18.43.44 - Create a detailed reference image for a space opera empress character, showcasing three key views_ front, back, and side. The empress is known for her.webp",
+    "obsidan/Empire/Empress/DALL·E 2024-02-20 18.43.42 - Design a character reference sheet for a space opera empress, incorporating a front view, back view, and side view in a single image. The character is.webp",
+    "obsidan/Empress/DALL·E 2024-02-20 19.08.23 - A character reference sheet for a Space Opera Empress, showcasing a regal and composed figure with dignified bearing. She possesses soft, humanized fa.webp",
+    "obsidan/JeuPerso/Histoire/Skyu.md",
+    "obsidan/JeuPerso/preface/Style d'Univers.md",
+    "obsidan/JeuPerso/vaisseaux/Classe M.md",
+    "obsidan/JeuPerso/vaisseaux/Classe H.md",
+    "obsidan/JeuPerso/vaisseaux/Classe E.md",
+    "obsidan/JeuPerso/vaisseaux/Classe C.md",
+    "obsidan/JeuPerso/planette/Sakyu.md",
+    "obsidan/JeuPerso/trad.md",
+    "obsidan/JeuPerso/Lexique.md",
+    "obsidan/The Wold's After/peuple du désert/Ashara/poncho/téléchargement (5).jpg",
+    "Untitled.canvas",
+    "obsidan/JeuPerso/Histoire/Time Line.md",
+    "obsidan/JeuPerso/Histoire/la crise des navigateur.md",
+    "2023-12-29.md"
+  ]
+}
